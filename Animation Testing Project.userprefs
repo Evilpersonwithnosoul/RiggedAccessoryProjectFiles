@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\School Preview\Assets\Scripts\HeartbrokenScript.js">
+    <Files>
+      <File FileName="..\School Preview\Assets\Scripts\YandereScript.js" Line="1371" Column="52" />
+      <File FileName="..\School Preview\Assets\Scripts\PoliceScript.js" Line="271" Column="65" />
+      <File FileName="..\School Preview\Assets\Scripts\HeartbrokenScript.js" Line="54" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
